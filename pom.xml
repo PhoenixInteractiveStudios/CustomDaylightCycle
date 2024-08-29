@@ -76,6 +76,13 @@
                     <include>plugin.yml</include>
                 </includes>
             </resource>
+
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>config.yml</include>
+                </includes>
+            </resource>
         </resources>
     </build>
 
