@@ -1,0 +1,11 @@
+name: CustomDaylightCyle
+main: org.burrow_studios.spigot.cdlc.CustomDaylightCycle
+
+version: ${project.version}
+
+api-version: 1.20
+description: ${project.description}
+
+authors:
+  - "TurtleException"
+website: https://github.com/PhoenixInteractiveStudios/CustomDaylightCycle
